@@ -68,7 +68,7 @@ My current research interests focus on WiFi localization, with an emphasis on ch
 # 🔥 News
 - *2024*: &nbsp;🎉🎉 After much thought, there's no news for now, but it’s still worth celebrating (ohhhh)! 
 
-# <p>&#128209; Publications<p>
+# &#128209; Publications
 
 <span class = 'label label-conf'>UBICOMP'23</span>: [RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty](https://dl.acm.org/doi/abs/10.1145/3631437) 
 
@@ -77,11 +77,11 @@ My current research interests focus on WiFi localization, with an emphasis on ch
 <span class = 'label label-conf'>WCNC'23</span>: [WiCo: Robust Indoor Localization via Spectrum Confidence Estimation](https://ieeexplore.ieee.org/abstract/document/10118725/)  
 **Tianyu Zhang**, Dongheng Zhang, Shuai Yang, Qibin Sun, Yan Chen
 
-## <p>&#128187; Publications<p>
+## &#128187; Publications
 
 - [Human-held device WiFi indoor localization dataset](https://github.com/H-WILD/human_held_device_wifi_indoor_localization_dataset): We construct a human-held device WiFi indoor localization dataset (H-WILD). I look forward to potential collaborations to make this project more valuable to the community.
 
-## <p>&#127942; Honors and Awards<p>
+## &#127942; Honors and Awards
 
 <span class = 'label label-time'>November 2023</span> Awarded Second Prize (2nd out of 287 teams) in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh). Grateful to my partner for their support and collaboration.
 
