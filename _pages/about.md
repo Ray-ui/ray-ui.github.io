@@ -86,7 +86,7 @@ My current research interests focus on WiFi localization, with an emphasis on ch
 # 🎖 Honors and Awards
 <span class = 'label label-time'>November 2023</span> Awarded Second Prize (2nd out of 287 teams) in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh). Grateful to my partner for their support and collaboration.
 
-<span class = 'label label-time'>During my undergraduate studies</span> Recognized as a "Three Goods Student" at the university level and awarded the People's First-Class Scholarship. Won first prizes in both national and university-level competitions.
+<span class = 'label label-time'>During my undergraduate studies</span> Recognized as a "Three Goods Student" at the university level and received the People's First-Class Scholarship (GPA: 3.8/4). Achieved first prizes in both national and university-level competitions.
 
 <!-- - *November 2023*: Awarded Second Prize (2nd out of 287 teams) in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh). Grateful to my partner for their support and collaboration. -->
 
@@ -94,7 +94,7 @@ My current research interests focus on WiFi localization, with an emphasis on ch
 
 
 # 📖 Educations
-- *2023 - Present*, Ph.D. in Cyberspace Security, University of Science and Technology of China
+- *2023 - Present*, Pursuing Ph.D. in Cyberspace Security, University of Science and Technology of China
 - *2021 - 2023*, M.S. in Computer Technology, University of Science and Technology of China
 - *2017 - 2021*, B.S. in Automation (Excellent Engineer Program), University of Science and Technology of Beijing
 
