@@ -23,31 +23,43 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024*: &nbsp;🎉🎉 coming soon.
 
 # 📝 Publications 
 
-
-[Ubicomp'24][RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty](https://dl.acm.org/doi/abs/10.1145/3631437)
+<span class = 'label label-conf'>Ubicomp'23</span>: [RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty](https://dl.acm.org/doi/abs/10.1145/3631437) 
 
 **Tianyu Zhang**, Dongheng Zhang, Guanzhong Wang, Yadong Li, Yang Hu, Qibin Sun, Yan Chen
 
+<span class = 'label label-conf'>WCNC'23</span>: [WiCo: Robust Indoor Localization via Spectrum Confidence Estimation](https://ieeexplore.ieee.org/abstract/document/10118725/)  
+**Tianyu Zhang**, Dongheng Zhang, Shuai Yang, Qibin Sun, Yan Chen
+
+
 [**Project**]
 
-- [Human-held device WiFi indoor localization dataset](https://github.com/H-WILD/human_held_device_wifi_indoor_localization_dataset)
+- [Human-held device WiFi indoor localization dataset.](https://github.com/H-WILD/human_held_device_wifi_indoor_localization_dataset)
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<span class = 'label label-time'>November 2023</span> Awarded Second Prize (2nd out of 287 teams) in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh). Grateful to my partner for their support and collaboration.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<span class = 'label label-time'>During my undergraduate studies</span> Recognized as a "Three Goods Student" at the university level and awarded the People's First-Class Scholarship. Won first prizes in both national and university-level competitions.
 
-# 💬 Invited Talks
+<!-- - *November 2023*: Awarded Second Prize (2nd out of 287 teams) in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh). Grateful to my partner for their support and collaboration. -->
+
+<!-- - *During my undergraduate studies*: Recognized as a "Three Goods Student" at the university level and awarded the People's First-Class Scholarship. Won first prizes in both national and university-level competitions. -->
+
+
+
+### 📖 Educations
+- *2023 - Present*, Ph.D. in Cyberspace Security, University of Science and Technology of China
+- *2021 - 2023*, M.S. in Computer Technology, University of Science and Technology of China
+- *2017 - 2021*, B.S. in Automation (Excellent Engineer Program), University of Science and Technology of Beijing
+
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
