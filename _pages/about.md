@@ -15,11 +15,54 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<style>
+.label-paper {
+    background-color: #4A90E2; /* Muted sky blue */
+}
+
+.label-conf {
+    background-color: #4A90E2; /* Soft amber yellow */
+}
+
+.label-time {
+    background-color: #F5A623; /* Light gray */
+}
+.label {
+    display: inline-block;
+    padding: 0.2em 0.6em 0.3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.25em;
+}
+/* .label {
+    display: inline;
+    padding: .2em .6em .3em;
+    padding-top: 0.2em;
+    padding-right: 0.6em;
+    padding-bottom: 0.3em;
+    padding-left: 0.6em;
+    font-size: 80%;
+    font-weight: bold;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .4em;
+} */
+</style>
+
+
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My current research interests focus on WiFi localization, with an emphasis on channel state information, deep learning, and representation learning.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
@@ -37,7 +80,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [**Project**]
 
-- [Human-held device WiFi indoor localization dataset.](https://github.com/H-WILD/human_held_device_wifi_indoor_localization_dataset)
+- [Human-held device WiFi indoor localization dataset.](https://github.com/H-WILD/human_held_device_wifi_indoor_localization_dataset): We construct a human-held device WiFi indoor localization dataset (H-WILD). I look forward to potential collaborations to make this project more valuable to the community.
 
 
 # 🎖 Honors and Awards
@@ -50,8 +93,7 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- - *During my undergraduate studies*: Recognized as a "Three Goods Student" at the university level and awarded the People's First-Class Scholarship. Won first prizes in both national and university-level competitions. -->
 
 
-
-### 📖 Educations
+# 📖 Educations
 - *2023 - Present*, Ph.D. in Cyberspace Security, University of Science and Technology of China
 - *2021 - 2023*, M.S. in Computer Technology, University of Science and Technology of China
 - *2017 - 2021*, B.S. in Automation (Excellent Engineer Program), University of Science and Technology of Beijing
