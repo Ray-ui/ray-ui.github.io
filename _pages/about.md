@@ -78,15 +78,15 @@ My current research interests focus on WiFi localization, with an emphasis on ch
 <span class = 'label label-conf'>WCNC'23</span>: [WiCo: Robust Indoor Localization via Spectrum Confidence Estimation](https://ieeexplore.ieee.org/abstract/document/10118725/)  
 **Tianyu Zhang**, Dongheng Zhang, Shuai Yang, Qibin Sun, Yan Chen
 
-## &#128187; Publications
+## &#128187; Projects
 
 - [Human-held device WiFi indoor localization dataset](https://github.com/H-WILD/human_held_device_wifi_indoor_localization_dataset): We construct a human-held device WiFi indoor localization dataset (H-WILD). I look forward to potential collaborations to make this project more valuable to the community.
 
 ## &#127942; Honors and Awards
 
-<span class = 'label label-time'>November 2023</span> Awarded Second Prize (2nd out of 287 teams) in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh). Grateful to my partner for their support and collaboration.
+<span class = 'label label-time'>November 2023</span> Awarded Second Prize (2nd out of 287 teams) in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh). Grateful to my partner for their support and collaboration. 
 
-<span class = 'label label-time'>During my undergraduate studies</span> Recognized as a 'Three Goods Student' during my studies and received the People's First-Class Scholarship (GPA: 3.8/4.0). Won first prizes in both national and intra-university competitions.
+<span class = 'label label-time'>During my undergraduate studies</span> Awarded the People's First-Class Scholarship (GPA: 3.8/4.0) and recognized as a 'Merit Student'. Won first prizes in both national and intra-university competitions and received the Excellent Student Cadre award. 
 
 <!-- - *November 2023*: Awarded Second Prize (2nd out of 287 teams) in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh). Grateful to my partner for their support and collaboration. -->
 
