@@ -66,19 +66,18 @@ My current research interests focus on WiFi localization, with an emphasis on ch
 
 
 # 🔥 News
-- *2024*: &nbsp;🎉🎉 coming soon.
+- *2024*: &nbsp;🎉🎉 After much thought, there's no news for now, but it’s still worth celebrating (ohhhh)! 
 
 # 📝 Publications 
 
-<span class = 'label label-conf'>Ubicomp'23</span>: [RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty](https://dl.acm.org/doi/abs/10.1145/3631437) 
+<span class = 'label label-conf'>UBICOMP'23</span>: [RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty](https://dl.acm.org/doi/abs/10.1145/3631437) 
 
 **Tianyu Zhang**, Dongheng Zhang, Guanzhong Wang, Yadong Li, Yang Hu, Qibin Sun, Yan Chen
 
 <span class = 'label label-conf'>WCNC'23</span>: [WiCo: Robust Indoor Localization via Spectrum Confidence Estimation](https://ieeexplore.ieee.org/abstract/document/10118725/)  
 **Tianyu Zhang**, Dongheng Zhang, Shuai Yang, Qibin Sun, Yan Chen
 
-
-[**Project**]
+# # 🌧 Project
 
 - [Human-held device WiFi indoor localization dataset.](https://github.com/H-WILD/human_held_device_wifi_indoor_localization_dataset): We construct a human-held device WiFi indoor localization dataset (H-WILD). I look forward to potential collaborations to make this project more valuable to the community.
 
@@ -86,7 +85,7 @@ My current research interests focus on WiFi localization, with an emphasis on ch
 # 🎖 Honors and Awards
 <span class = 'label label-time'>November 2023</span> Awarded Second Prize (2nd out of 287 teams) in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh). Grateful to my partner for their support and collaboration.
 
-<span class = 'label label-time'>During my undergraduate studies</span> Recognized as a "Three Goods Student" at the university level and received the People's First-Class Scholarship (GPA: 3.8/4). Achieved first prizes in both national and university-level competitions.
+<span class = 'label label-time'>During my undergraduate studies</span> Recognized as a 'Three Goods Student' during my studies and received the People's First-Class Scholarship (GPA: 3.8/4.0). Won first prizes in both national and intra-university competitions.
 
 <!-- - *November 2023*: Awarded Second Prize (2nd out of 287 teams) in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh). Grateful to my partner for their support and collaboration. -->
 
