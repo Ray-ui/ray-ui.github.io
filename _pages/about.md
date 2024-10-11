@@ -61,7 +61,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # &#128512; About me
-My current research interests focus on WiFi localization, with an emphasis on channel state information, deep learning, and representation learning. 
+My research focuses on WiFi localization, using deep learning to tackle indoor positioning challenges.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -84,13 +84,9 @@ My current research interests focus on WiFi localization, with an emphasis on ch
 
 ## &#127942; Honors and Awards
 
-<span class = 'label label-time'>November 2023</span> Awarded Second Prize (2nd out of 287 teams) and 100,000 CNY in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh). Grateful to my partner for their collaboration and support. 
+<span class = 'label label-time'> November 2023 </span>Awarded Second Prize (2nd out of 287 teams) and 100,000 CNY in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh) as the team leader. Grateful to my partner for their collaboration and support.
 
-<span class = 'label label-time'>During my undergraduate studies</span> Awarded the People's First-Class Scholarship (GPA: 3.8/4.0) and recognized as a 'Merit Student'. Won first prizes in both national and intra-university competitions and received the Excellent Student Cadre award. 
-
-<!-- - *November 2023*: Awarded Second Prize (2nd out of 287 teams) in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh). Grateful to my partner for their support and collaboration. -->
-
-<!-- - *During my undergraduate studies*: Recognized as a "Three Goods Student" at the university level and awarded the People's First-Class Scholarship. Won first prizes in both national and university-level competitions. -->
+<span class = 'label label-time'>During my undergraduate studies</span> Awarded the People's First-Class Scholarship (GPA: 3.8/4.0) and won first prizes in both national and intra-university competitions. Also recognized as a Merit Student and received the Excellent Student Cadre Award.  
 
 
 # 📖 Educations
