@@ -67,18 +67,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # &#128512; About me
-My research focuses on WiFi localization, using deep learning to tackle indoor positioning challenges.
+I specialize in WiFi localization, leveraging deep learning techniques to address challenges in indoor positioning.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
 - <span class='label label-update'>Dec 2024</span>:
-This year, I've dedicated significant time to exploring a new platform, addressing a variety of engineering challenges 😓.
-The exciting news, however, is that a paper based on this platform has just been submitted to TMC—stay tuned for more updates! 🎉
+This year, I have dedicated substantial time to exploring a new platform, tackling a variety of engineering challenges 😓.
+The exciting news is that a paper based on this platform has just been submitted to TMC—stay tuned for more updates!  🎉
 - <span class='label label-update'>Oct 2024</span>:
-I’m very happy to have met everyone in Melbourne. Looking forward to our next meeting!
-
+I was delighted to meet everyone in Melbourne. Looking forward to our next gathering!
 
 # &#128209; Publications
 
@@ -91,14 +90,17 @@ I’m very happy to have met everyone in Melbourne. Looking forward to our next 
 
 ## &#128187; Projects
 
-- [Human-held device WiFi indoor localization dataset](https://github.com/H-WILD/human_held_device_wifi_indoor_localization_dataset): We construct a human-held device WiFi indoor localization dataset (H-WILD). Special thanks to my collaborator, Guanzhong Wang. I look forward to potential collaborations to make this project more valuable to the community.
+- [Human-held device WiFi indoor localization dataset](https://github.com/H-WILD/human_held_device_wifi_indoor_localization_dataset): We have developed the H-WILD dataset for WiFi-based indoor localization using human-held devices. Special thanks to my collaborator, Guanzhong Wang. I welcome potential collaborations to enhance the value of this project for the community.
 
 ## &#127942; Honors and Awards
 
-<span class = 'label label-time'> November 2023 </span> Awarded Second Prize (2nd out of 287 teams) and 100,000 CNY in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh) as the team leader. Grateful to my partner for their collaboration and support. Special thanks to Tongzhou Zhou for his invaluable guidance on my presentation.
+<!-- <span class = 'label label-time'> November 2023 </span> Awarded Second Prize (2nd out of 287 teams) and 100,000 CNY in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh) as the team leader. I am grateful to my partner for their collaboration and support, and I extend special thanks to Tongzhou Zhou for his invaluable guidance on my presentation. -->
+- **Nov 2023**: Awarded Second Prize (2nd out of 287 teams) and 100,000 CNY in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh) as the team leader. I am grateful to my partner for their collaboration and support, and I extend special thanks to Tongzhou Zhou for his invaluable guidance on my presentation.
 
-<span class = 'label label-time'> Undergraduate </span> Awarded the People's First-Class Scholarship (GPA: 3.8/4.0) and won first prizes in both national and intra-university competitions. Also recognized as a Merit Student and received the Excellent Student Cadre Award.  
-
+- **Undergraduate**:
+    - Awarded the People’s First-Class Scholarship (GPA: 3.8/4.0)
+    - Secured first prizes in both national and intra-university competitions
+    - Recognized as a Merit Student and received the Excellent Student Cadre Award
 
 # 📖 Educations
 - *2023 - Present*, Pursuing Ph.D. in Cyberspace Security, University of Science and Technology of China
