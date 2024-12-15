@@ -39,6 +39,12 @@ redirect_from:
     vertical-align: baseline;
     border-radius: 0.25em;
 }
+
+.label-update {
+    background-color: #28a745;  /* Green background */
+    color: #ffffff;  /* White text */
+}
+
 /* .label {
     display: inline;
     padding: .2em .6em .3em;
