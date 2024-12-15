@@ -95,7 +95,7 @@ I’m very happy to have met everyone in Melbourne. Looking forward to our next 
 
 ## &#127942; Honors and Awards
 
-<span class = 'label label-time'> November 2023 </span> Awarded Second Prize (2nd out of 287 teams) and 100,000 CNY in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh) as the team leader. Grateful to my partner for their collaboration and support. Special thanks to Tongzhou Zhou for his invaluable guidance for my talk.
+<span class = 'label label-time'> November 2023 </span> Awarded Second Prize (2nd out of 287 teams) and 100,000 CNY in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh) as the team leader. Grateful to my partner for their collaboration and support. Special thanks to Tongzhou Zhou for his invaluable guidance on my presentation.
 
 <span class = 'label label-time'> Undergraduate </span> Awarded the People's First-Class Scholarship (GPA: 3.8/4.0) and won first prizes in both national and intra-university competitions. Also recognized as a Merit Student and received the Excellent Student Cadre Award.  
 
