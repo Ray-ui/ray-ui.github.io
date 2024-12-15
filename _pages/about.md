@@ -67,7 +67,12 @@ My research focuses on WiFi localization, using deep learning to tackle indoor p
 
 
 # 🔥 News
-- *2024*: &nbsp;🎉🎉 After much thought, there's no news for now, but it’s still worth celebrating (ohhhh)! 
+- <span class='label label-update'>Dec 2024</span>:
+This year, I've dedicated significant time to exploring a new platform, addressing a variety of engineering challenges 😓.
+The exciting news, however, is that a paper based on this platform has just been submitted to TMC—stay tuned for more updates! 🎉
+- <span class='label label-update'>Oct 2024</span>:
+I’m very happy to have met everyone in Melbourne. Looking forward to our next meeting!
+
 
 # &#128209; Publications
 
