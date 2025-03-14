@@ -73,9 +73,13 @@ I specialize in WiFi localization, leveraging deep learning techniques to addres
 
 
 # 🔥 News
+- <span class='label label-update'>Mar 2025</span>:
+Oh, I was just rejected by TMC. Haha. See you next time!
+
 - <span class='label label-update'>Dec 2024</span>:
 This year, I have dedicated substantial time to exploring a new platform, tackling a variety of engineering challenges 😓.
 The exciting news is that a paper based on this platform has just been submitted to TMC—stay tuned for more updates!  🎉
+
 - <span class='label label-update'>Oct 2024</span>:
 I was delighted to meet everyone in Melbourne. Looking forward to our next gathering!
 
