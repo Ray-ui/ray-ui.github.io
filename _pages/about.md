@@ -83,6 +83,11 @@ The exciting news is that a paper based on this platform has just been submitted
 - <span class='label label-update'>Oct 2024</span>:
 I was delighted to meet everyone in Melbourne. Looking forward to our next gathering!
 
+# &#128209; Preprint.
+
+<span class='label label-conf'>Submit to IOTJ</span>: [Lessons from Deploying Learning-based CSI Localization on a Large-Scale ISAC Platform](https://arxiv.org/abs/2504.17173)
+This work presents some interesting challenges we encountered while deploying a learning-based localization system in a large-scale ISAC platform.
+
 # &#128209; Publications
 
 <span class = 'label label-conf'>UBICOMP'23</span>: [RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty](https://dl.acm.org/doi/abs/10.1145/3631437) 
@@ -112,7 +117,7 @@ I was delighted to meet everyone in Melbourne. Looking forward to our next gathe
 - *2017 - 2021*, B.S. in Automation (Excellent Engineer Program), University of Science and Technology of Beijing
 
 
-# Under Construction 🚧 (/#blog.md)
+<!-- # Under Construction 🚧 (/#blog.md) -->
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
