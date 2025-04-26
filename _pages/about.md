@@ -83,7 +83,7 @@ The exciting news is that a paper based on this platform has just been submitted
 - <span class='label label-update'>Oct 2024</span>:
 I was delighted to meet everyone in Melbourne. Looking forward to our next gathering!
 
-# &#128209; Preprint.
+# &#128209; Preprint
 
 <span class='label label-conf'>Submit to IOTJ</span>: [Lessons from Deploying Learning-based CSI Localization on a Large-Scale ISAC Platform](https://arxiv.org/abs/2504.17173)
 
