@@ -86,6 +86,7 @@ I was delighted to meet everyone in Melbourne. Looking forward to our next gathe
 # &#128209; Preprint.
 
 <span class='label label-conf'>Submit to IOTJ</span>: [Lessons from Deploying Learning-based CSI Localization on a Large-Scale ISAC Platform](https://arxiv.org/abs/2504.17173)
+
 This work presents some interesting challenges we encountered while deploying a learning-based localization system in a large-scale ISAC platform.
 
 # &#128209; Publications
