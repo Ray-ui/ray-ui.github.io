@@ -85,11 +85,21 @@ I was delighted to meet everyone in Melbourne. Looking forward to our next gathe
 
 # &#128209; Preprint
 
+## [Indoor Localization] [Integrated Sensing and Communication (ISAC)] [ Data-driven ] [Large-scale Deployment]
+
+This series explores data-driven localization approaches on a large-scale ISAC platform.
+
 <span class='label label-conf'>Submit to IOTJ</span>: [Lessons from Deploying Learning-based CSI Localization on a Large-Scale ISAC Platform](https://arxiv.org/abs/2504.17173)
 
 This work presents some interesting challenges we encountered while deploying a learning-based localization system in a large-scale ISAC platform.
 
+We look forward to sharing more upcoming results in this line of research.
+
 # &#128209; Publications
+
+## [Indoor Localization] [Channel State Information] [Angle of Arrival]
+
+This series aims to leverage uncertainty quantification to enhance the robustness of angle-based localization.
 
 <span class = 'label label-conf'>UBICOMP'23</span>: [RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty](https://dl.acm.org/doi/abs/10.1145/3631437) 
 
