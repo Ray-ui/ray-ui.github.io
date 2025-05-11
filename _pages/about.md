@@ -83,21 +83,71 @@ The exciting news is that a paper based on this platform has just been submitted
 - <span class='label label-update'>Oct 2024</span>:
 I was delighted to meet everyone in Melbourne. Looking forward to our next gathering!
 
-# &#128209; Preprint
+<!-- 卡片栅格容器 -->
+<div class="pub-grid">
+  <!-- == Card 1: AoA 系列 ====================================== -->
+  <section class="pub-card">
+    <header>
+      <h3>Indoor Localization · CSI · AoA</h3>
+      <p class="subtitle">
+        Leveraging <strong>uncertainty quantification</strong> to enhance angle-based robustness.
+      </p>
+    </header>
 
-## [Indoor Localization] [Integrated Sensing and Communication (ISAC)] [ Data-driven ] [Large-scale Deployment]
+    <article class="paper">
+      <span class="badge">UBICOMP'23</span>
+      <h4><a href="https://dl.acm.org/doi/abs/10.1145/3631437">
+        RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty</a></h4>
+      <p class="authors">
+        Tianyu Zhang, Dongheng Zhang, <em>et&nbsp;al.</em>
+      </p>
+    </article>
 
-This series explores data-driven localization approaches on a large-scale ISAC platform.
+    <article class="paper">
+      <span class="badge">WCNC'23</span>
+      <h4><a href="https://ieeexplore.ieee.org/abstract/document/10118725/">
+        WiCo: Robust Indoor Localization via Spectrum Confidence Estimation</a></h4>
+      <p class="authors">
+        Tianyu Zhang, Dongheng Zhang, <em>et&nbsp;al.</em>
+      </p>
+    </article>
+  </section>
 
-<span class='label label-conf'>Submit to IOTJ</span>: [Lessons from Deploying Learning-based CSI Localization on a Large-Scale ISAC Platform](https://arxiv.org/abs/2504.17173)
+  <!-- == Card 2: ISAC 大规模系列 =============================== -->
+  <section class="pub-card">
+    <header>
+      <h3>Indoor Localization · ISAC · Data-driven · Large-scale</h3>
+      <p class="subtitle">
+        Exploring data-driven localization on a large-scale ISAC platform.
+      </p>
+    </header>
 
-This work presents some interesting challenges we encountered while deploying a learning-based localization system in a large-scale ISAC platform.
+    <article class="paper">
+      <span class="badge">Submitted&nbsp;to&nbsp;IoTJ</span>
+      <h4><a href="https://arxiv.org/abs/2504.17173">
+        Lessons from Deploying Learning-based CSI Localization on a Large-Scale ISAC Platform</a></h4>
+      <p class="authors">Preprint (arXiv)</p>
+    </article>
 
-We look forward to sharing more upcoming results in this line of research.
+    <p class="coming">More results coming soon …</p>
+  </section>
+</div>
 
-# &#128209; Publications
+<!-- ☆☆☆ 迷你 CSS 仅示范核心样式，可放到独立 CSS 文件 ☆☆☆ -->
+<style>
+  .pub-grid { display:grid; gap:1.5rem; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); }
+  .pub-card { padding:1.5rem; border:1px solid #e5e7eb; border-radius:0.75rem; box-shadow:0 1px 3px rgba(0,0,0,.08);}
+  .pub-card h3 { margin:0 0 .5rem; font-size:1.15rem; }
+  .subtitle { color:#6b7280; margin-bottom:1rem; }
+  .paper { margin-bottom:1rem; }
+  .badge { background:#2563eb; color:#fff; padding:.15rem .5rem; border-radius:.375rem; font-size:.75rem; }
+  .authors { font-size:.85rem; color:#4b5563; margin:.25rem 0 0; }
+  .coming { font-style:italic; color:#6b7280; }
+</style>
 
-## [Indoor Localization] [Channel State Information] [Angle of Arrival]
+<!-- # &#128209; Publications
+
+[Indoor Localization] [Channel State Information] [Angle of Arrival]
 
 This series aims to leverage uncertainty quantification to enhance the robustness of angle-based localization.
 
@@ -107,6 +157,16 @@ This series aims to leverage uncertainty quantification to enhance the robustnes
 
 <span class = 'label label-conf'>WCNC'23</span>: [WiCo: Robust Indoor Localization via Spectrum Confidence Estimation](https://ieeexplore.ieee.org/abstract/document/10118725/)  
 **Tianyu Zhang**, Dongheng Zhang, Shuai Yang, Qibin Sun, Yan Chen
+
+[Indoor Localization] [Integrated Sensing and Communication (ISAC)] [ Data-driven ] [Large-scale Deployment]
+
+This series explores data-driven localization approaches on a large-scale ISAC platform.
+
+<span class='label label-conf'>Submit to IOTJ</span>: [Lessons from Deploying Learning-based CSI Localization on a Large-Scale ISAC Platform](https://arxiv.org/abs/2504.17173)
+
+This work presents some interesting challenges we encountered while deploying a learning-based localization system in a large-scale ISAC platform.
+
+We look forward to sharing more upcoming results in this line of research. -->
 
 ## &#128187; Projects
 
