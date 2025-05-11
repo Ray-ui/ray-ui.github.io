@@ -180,38 +180,30 @@ We look forward to sharing more upcoming results in this line of research. -->
 
 <div class="education-timeline">
   <div class="timeline-entry">
+    <div class="time-badge">2023 - Present</div>
     <div class="education-card">
-      <div class="time-period">
-        <span class="year-badge">2023 - Present</span>
-      </div>
-      <h3 class="degree">Ph.D. in Cyberspace Security</h3>
-      <p class="institution">University of Science and Technology of China</p>
+      <h3>Ph.D. in Cyberspace Security</h3>
+      <p>University of Science and Technology of China</p>
     </div>
   </div>
   
   <div class="timeline-entry">
+    <div class="time-badge">2021 - 2023</div>
     <div class="education-card">
-      <div class="time-period">
-        <span class="year-badge">2021 - 2023</span>
-      </div>
-      <h3 class="degree">M.S. in Computer Technology</h3>
-      <p class="institution">University of Science and Technology of China</p>
+      <h3>M.S. in Computer Technology</h3>
+      <p>University of Science and Technology of China</p>
     </div>
   </div>
   
   <div class="timeline-entry">
+    <div class="time-badge">2017 - 2021</div>
     <div class="education-card">
-      <div class="time-period">
-        <span class="year-badge">2017 - 2021</span>
-      </div>
-      <h3 class="degree">B.S. in Automation</h3>
-      <p class="institution">University of Science and Technology of Beijing</p>
-      <div class="program-badge">Excellent Engineer Program</div>
+      <h3>B.S. in Automation</h3>
+      <p>University of Science and Technology of Beijing</p>
+      <span class="tag">Excellent Engineer Program</span>
     </div>
   </div>
 </div>
-
-
 
 
 
