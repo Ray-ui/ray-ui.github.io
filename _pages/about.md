@@ -83,37 +83,38 @@ The exciting news is that a paper based on this platform has just been submitted
 - <span class='label label-update'>Oct 2024</span>:
 I was delighted to meet everyone in Melbourne. Looking forward to our next gathering!
 
-<!-- 卡片栅格容器 -->
+<link rel="stylesheet" href="{{ '/assets/css/publication-cards.css' | relative_url }}">
+
+# 📑 Publications
+
 <div class="pub-grid">
-  <!-- == Card 1: AoA 系列 ====================================== -->
+  <!-- 第一张卡片: AoA 系列 -->
   <section class="pub-card">
     <header>
-      <h3>Indoor Localization · CSI · AoA</h3>
+      <h3>Indoor Localization · CSI · Angle of Arrival</h3>
       <p class="subtitle">
         Leveraging <strong>uncertainty quantification</strong> to enhance angle-based robustness.
       </p>
     </header>
 
     <article class="paper">
-      <span class="badge">UBICOMP'23</span>
       <h4><a href="https://dl.acm.org/doi/abs/10.1145/3631437">
         RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty</a></h4>
       <p class="authors">
-        Tianyu Zhang, Dongheng Zhang, <em>et&nbsp;al.</em>
+        Tianyu Zhang, Dongheng Zhang, <em>et&nbsp;al.</em> (UBICOMP 2023)
       </p>
     </article>
 
     <article class="paper">
-      <span class="badge">WCNC'23</span>
       <h4><a href="https://ieeexplore.ieee.org/abstract/document/10118725/">
         WiCo: Robust Indoor Localization via Spectrum Confidence Estimation</a></h4>
       <p class="authors">
-        Tianyu Zhang, Dongheng Zhang, <em>et&nbsp;al.</em>
+        Tianyu Zhang, Dongheng Zhang, <em>et&nbsp;al.</em> (WCNC 2023)
       </p>
     </article>
   </section>
 
-  <!-- == Card 2: ISAC 大规模系列 =============================== -->
+  <!-- 第二张卡片: ISAC 大规模系列 -->
   <section class="pub-card">
     <header>
       <h3>Indoor Localization · ISAC · Data-driven · Large-scale</h3>
@@ -123,27 +124,18 @@ I was delighted to meet everyone in Melbourne. Looking forward to our next gathe
     </header>
 
     <article class="paper">
-      <span class="badge">Submitted&nbsp;to&nbsp;IoTJ</span>
       <h4><a href="https://arxiv.org/abs/2504.17173">
         Lessons from Deploying Learning-based CSI Localization on a Large-Scale ISAC Platform</a></h4>
-      <p class="authors">Preprint (arXiv)</p>
+      <p class="authors">
+        Preprint (arXiv) - Submitted to IoTJ
+      </p>
     </article>
 
     <p class="coming">More results coming soon …</p>
   </section>
 </div>
 
-<!-- ☆☆☆ 迷你 CSS 仅示范核心样式，可放到独立 CSS 文件 ☆☆☆ -->
-<style>
-  .pub-grid { display:grid; gap:1.5rem; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); }
-  .pub-card { padding:1.5rem; border:1px solid #e5e7eb; border-radius:0.75rem; box-shadow:0 1px 3px rgba(0,0,0,.08);}
-  .pub-card h3 { margin:0 0 .5rem; font-size:1.15rem; }
-  .subtitle { color:#6b7280; margin-bottom:1rem; }
-  .paper { margin-bottom:1rem; }
-  .badge { background:#2563eb; color:#fff; padding:.15rem .5rem; border-radius:.375rem; font-size:.75rem; }
-  .authors { font-size:.85rem; color:#4b5563; margin:.25rem 0 0; }
-  .coming { font-style:italic; color:#6b7280; }
-</style>
+
 
 <!-- # &#128209; Publications
 
@@ -182,10 +174,45 @@ We look forward to sharing more upcoming results in this line of research. -->
     - Secured first prizes in both national and intra-university competitions
     - Recognized as a Merit Student and received the Excellent Student Cadre Award
 
-# 📖 Educations
-- *2023 - Present*, Pursuing Ph.D. in Cyberspace Security, University of Science and Technology of China
-- *2021 - 2023*, M.S. in Computer Technology, University of Science and Technology of China
-- *2017 - 2021*, B.S. in Automation (Excellent Engineer Program), University of Science and Technology of Beijing
+<link rel="stylesheet" href="{{ '/assets/css/education-timeline.css' | relative_url }}">
+
+<h1 id="educations">📖 Education</h1>
+
+<div class="education-timeline">
+  <div class="timeline-entry">
+    <div class="education-card">
+      <div class="time-period">
+        <span class="year-badge">2023 - Present</span>
+      </div>
+      <h3 class="degree">Ph.D. in Cyberspace Security</h3>
+      <p class="institution">University of Science and Technology of China</p>
+    </div>
+  </div>
+  
+  <div class="timeline-entry">
+    <div class="education-card">
+      <div class="time-period">
+        <span class="year-badge">2021 - 2023</span>
+      </div>
+      <h3 class="degree">M.S. in Computer Technology</h3>
+      <p class="institution">University of Science and Technology of China</p>
+    </div>
+  </div>
+  
+  <div class="timeline-entry">
+    <div class="education-card">
+      <div class="time-period">
+        <span class="year-badge">2017 - 2021</span>
+      </div>
+      <h3 class="degree">B.S. in Automation</h3>
+      <p class="institution">University of Science and Technology of Beijing</p>
+      <div class="program-badge">Excellent Engineer Program</div>
+    </div>
+  </div>
+</div>
+
+
+
 
 
 <!-- # Under Construction 🚧 (/#blog.md) -->

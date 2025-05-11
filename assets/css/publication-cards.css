@@ -1,0 +1,87 @@
+/* publication-cards.css */
+.pub-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  .pub-card {
+    background: #f9f9f9;
+    border-radius: 8px;
+    padding: 1.25rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .pub-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .pub-card header {
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 0.75rem;
+  }
+  
+  .pub-card h3 {
+    font-size: 1.1rem;
+    margin: 0 0 0.5rem 0;
+    color: #333;
+  }
+  
+  .pub-card .subtitle {
+    font-size: 0.9rem;
+    color: #555;
+    margin: 0;
+    line-height: 1.4;
+  }
+  
+  .paper {
+    margin-bottom: 1.25rem;
+    position: relative;
+  }
+  
+  .paper h4 {
+    font-size: 1rem;
+    margin: 0.5rem 0;
+    line-height: 1.4;
+  }
+  
+  .paper h4 a {
+    color: #0066cc;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  
+  .paper h4 a:hover {
+    color: #004080;
+    text-decoration: underline;
+  }
+  
+  .paper .authors {
+    font-size: 0.85rem;
+    color: #666;
+    margin: 0.25rem 0;
+  }
+  
+  .coming {
+    font-style: italic;
+    color: #888;
+    font-size: 0.9rem;
+    text-align: center;
+    margin: 1rem 0 0.5rem;
+  }
+  
+  /* 响应式调整 */
+  @media (max-width: 768px) {
+    .pub-grid {
+      grid-template-columns: 1fr;
+    }
+    
+    .pub-card {
+      padding: 1rem;
+    }
+  }
+  
