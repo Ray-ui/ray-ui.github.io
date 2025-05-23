@@ -16,8 +16,8 @@ main:
     url: "/#-educations"
     # url: "/educations"
 
-  - title: "Blog"
-    url: "/blog/"
+  # - title: "Blog"
+  #   url: "/blog/"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
