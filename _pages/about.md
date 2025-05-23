@@ -160,11 +160,11 @@ This work presents some interesting challenges we encountered while deploying a 
 
 We look forward to sharing more upcoming results in this line of research. -->
 
-## &#128187; Projects
+# &#128187; Projects
 
 - [Human-held device WiFi indoor localization dataset](https://github.com/H-WILD/human_held_device_wifi_indoor_localization_dataset): We have developed the H-WILD dataset for WiFi-based indoor localization using human-held devices. Special thanks to my collaborator, Guanzhong Wang. I welcome potential collaborations to enhance the value of this project for the community.
 
-## &#127942; Honors and Awards
+# &#127942; Honors and Awards
 
 <!-- <span class = 'label label-time'> November 2023 </span> Awarded Second Prize (2nd out of 287 teams) and 100,000 CNY in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh) as the team leader. I am grateful to my partner for their collaboration and support, and I extend special thanks to Tongzhou Zhou for his invaluable guidance on my presentation. -->
 - **Nov 2023**: Awarded Second Prize (2nd out of 287 teams) and 100,000 CNY in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh) as the team leader. I am grateful to my partner for their collaboration and support, and I extend special thanks to Tongzhou Zhou for his invaluable guidance on my presentation.
@@ -174,9 +174,11 @@ We look forward to sharing more upcoming results in this line of research. -->
     - Secured first prizes in both national and intra-university competitions
     - Recognized as a Merit Student and received the Excellent Student Cadre Award
 
+# 📖 Educations
+
 <link rel="stylesheet" href="{{ '/assets/css/education-timeline.css' | relative_url }}">
 
-<h1 id="educations">📖 Education</h1>
+<!-- <h1 id="educations"> 📖 Education</h1> -->
 
 <div class="education-timeline">
   <div class="timeline-entry">
