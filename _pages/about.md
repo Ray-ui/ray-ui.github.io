@@ -93,7 +93,7 @@ I was delighted to meet everyone in Melbourne. Looking forward to our next gathe
     <header>
       <h3>Indoor Localization · CSI · Angle of Arrival</h3>
       <p class="subtitle">
-        Leveraging <strong>uncertainty quantification</strong> to enhance angle-based robustness.
+        Leveraging <strong>uncertainty quantification</strong>  to improve the robustness and accuracy of angle-based methods.
       </p>
     </header>
 
