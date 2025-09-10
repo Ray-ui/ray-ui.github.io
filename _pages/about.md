@@ -202,7 +202,7 @@ We look forward to sharing more upcoming results in this line of research. -->
     <div class="education-card">
       <h3>B.S. in Automation</h3>
       <p>University of Science and Technology of Beijing</p>
-      <span class="tag">Excellent Engineer Program</span>
+      <span class="tag">Outstanding Engineering Class</span>
     </div>
   </div>
 </div>
