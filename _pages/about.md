@@ -67,18 +67,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # &#128512; About me
-I specialize in WiFi localization, leveraging deep learning techniques to address challenges in indoor positioning.
+I am dedicated to utilizing deep learning techniques to solve localization problems.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- <span class='label label-update'>Mar 2025</span>:
-Oh, I was just rejected by TMC. Haha. See you next time!
 
-- <span class='label label-update'>Dec 2024</span>:
-This year, I have dedicated substantial time to exploring a new platform, tackling a variety of engineering challenges 😓.
-The exciting news is that a paper based on this platform has just been submitted to TMC—stay tuned for more updates!  🎉
+- <span class='label label-update'>Apr 2025</span>:
+Preprint submitted to arXiv on 24 Apr 2025: We introduce several interesting challenges encountered when deploying learning-based localization on a large-scale platform. Stay tuned for more details!
 
 - <span class='label label-update'>Oct 2024</span>:
 I was delighted to meet everyone in Melbourne. Looking forward to our next gathering!
@@ -88,38 +85,47 @@ I was delighted to meet everyone in Melbourne. Looking forward to our next gathe
 # 📑 Publications
 
 <div class="pub-grid">
-  <!-- 第一张卡片: AoA 系列 -->
+  <!-- First Card: AoA Series -->
   <section class="pub-card">
     <header>
-      <h3>Indoor Localization · CSI · Angle of Arrival</h3>
+      <h3>Indoor Localization · Angle of Arrival · Uncertainty Learning</h3>
       <p class="subtitle">
-        Leveraging <strong>uncertainty quantification</strong>  to improve the robustness and accuracy of angle-based methods.
+        Explore the uncertainty to improve the robustness of localization.
       </p>
     </header>
 
     <article class="paper">
-      <h4><a href="https://dl.acm.org/doi/abs/10.1145/3631437">
-        RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty</a></h4>
+      <h4>
+        <a href="https://dl.acm.org/doi/abs/10.1145/3631437">
+          RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty
+        </a>
+        <a href="{{ '/docs/ubicomp24_tianyuzhang_rloc_slide.pdf' | relative_url }}" target="_blank" class="slide-link" style="margin-left: 10px;">
+          [Slides]
+        </a>
+      </h4>
       <p class="authors">
         Tianyu Zhang, Dongheng Zhang, <em>et&nbsp;al.</em> (UBICOMP 2023)
       </p>
     </article>
 
     <article class="paper">
-      <h4><a href="https://ieeexplore.ieee.org/abstract/document/10118725/">
-        WiCo: Robust Indoor Localization via Spectrum Confidence Estimation</a></h4>
+      <h4>
+        <a href="https://ieeexplore.ieee.org/abstract/document/10118725/">
+          WiCo: Robust Indoor Localization via Spectrum Confidence Estimation
+        </a>
+      </h4>
       <p class="authors">
         Tianyu Zhang, Dongheng Zhang, <em>et&nbsp;al.</em> (WCNC 2023)
       </p>
     </article>
   </section>
 
-  <!-- 第二张卡片: ISAC 大规模系列 -->
+  <!-- Second Card: ISAC Large-scale Series -->
   <section class="pub-card">
     <header>
-      <h3>Indoor Localization · ISAC · Data-driven · Large-scale</h3>
+      <h3>Indoor Localization · Large-scale · Unlabeled Training</h3>
       <p class="subtitle">
-        Exploring data-driven localization on a large-scale ISAC platform.
+        Explore the unlabeled dataset to address localization challenges in a large-scale ISAC platform.
       </p>
     </header>
 
@@ -132,6 +138,18 @@ I was delighted to meet everyone in Melbourne. Looking forward to our next gathe
     </article>
 
     <p class="coming">More results coming soon …</p>
+  </section>
+
+  <!-- Third Card: Coming Soon -->
+  <section class="pub-card">
+    <header>
+      <h3>Coming Soon</h3>
+      <p class="subtitle">
+        Exciting new research directions are in progress.
+      </p>
+    </header>
+
+    <p class="coming">Stay tuned for upcoming publications …</p>
   </section>
 </div>
 
@@ -164,9 +182,13 @@ We look forward to sharing more upcoming results in this line of research. -->
 
 - [Human-held device WiFi indoor localization dataset](https://github.com/H-WILD/human_held_device_wifi_indoor_localization_dataset): We have developed the H-WILD dataset for WiFi-based indoor localization using human-held devices. Special thanks to my collaborator, Guanzhong Wang. I welcome potential collaborations to enhance the value of this project for the community.
 
+- [Waypoint-based Fingerprint Collection Tools](/docs/image-20240820143646502.png "Waypoint-based Fingerprint Collection Workflow"): Inspired by the [Kaggle Indoor Location & Navigation competition](https://kaggle.com/competitions/indoor-location-navigation), I developed a fingerprint collection framework that utilizes landmarks and pedestrian trajectory tracking to support large-scale deployments. The codebase is currently for internal use only, as the mapping system is specifically tailored to our deployment scenarios. Special thanks to Jinran Sun, Yuhong Sun, Xinxin Li, Lu Yi, and Jiamu Li for their contributions to the data collection efforts.
+
+
 # &#127942; Honors and Awards
 
 <!-- <span class = 'label label-time'> November 2023 </span> Awarded Second Prize (2nd out of 287 teams) and 100,000 CNY in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh) as the team leader. I am grateful to my partner for their collaboration and support, and I extend special thanks to Tongzhou Zhou for his invaluable guidance on my presentation. -->
+
 - **Nov 2023**: Awarded Second Prize (2nd out of 287 teams) and 100,000 CNY in the [First WiFi Sensing Contest](https://www.chaspark.com/#/live/941113361357037568?anchorV=946512265287860224&multi=zh) as the team leader. I am grateful to my partner for their collaboration and support, and I extend special thanks to Tongzhou Zhou for his invaluable guidance on my presentation.
 
 - **Undergraduate**:
