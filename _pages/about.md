@@ -125,7 +125,7 @@ I was delighted to meet everyone in Melbourne. Looking forward to our next gathe
     <header>
       <h3>Indoor Localization · Large-scale · Unlabeled Training</h3>
       <p class="subtitle">
-        Explore the unlabeled dataset to address localization challenges in a large-scale ISAC platform.
+        Exploring data-driven localization on a large-scale ISAC platform.
       </p>
     </header>
 
