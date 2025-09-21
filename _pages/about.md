@@ -80,6 +80,9 @@ Preprint submitted to arXiv on 24 Apr 2025: We introduce several interesting cha
 - <span class='label label-update'>Oct 2024</span>:
 I was delighted to meet everyone in Melbourne. Looking forward to our next gathering!
 
+- <span class='label label-update'>Oct 2023</span>:
+Our paper "RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty" has been accepted to IMWUT (UBICOMP 2024)! We are excited to share our work on robust indoor localization through uncertainty quantification.
+
 <link rel="stylesheet" href="{{ '/assets/css/publication-cards.css' | relative_url }}">
 
 # 📑 Publications
