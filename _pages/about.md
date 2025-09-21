@@ -123,7 +123,7 @@ I was delighted to meet everyone in Melbourne. Looking forward to our next gathe
   <!-- Second Card: ISAC Large-scale Series -->
   <section class="pub-card">
     <header>
-      <h3>Indoor Localization · Large-scale · Unlabeled Training</h3>
+      <h3>Indoor Localization · Large-scale · Data-driven</h3>
       <p class="subtitle">
         Exploring data-driven localization on a large-scale ISAC platform.
       </p>
