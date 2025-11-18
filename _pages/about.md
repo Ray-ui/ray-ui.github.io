@@ -136,10 +136,10 @@ Our paper "RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty" 
     </header>
 
     <article class="paper">
-      <h4><a href="https://arxiv.org/abs/2504.17173">
+      <h4><a href="https://ieeexplore.ieee.org/document/11250670">
         Lessons from Deploying Learning-based CSI Localization on a Large-Scale ISAC Platform</a></h4>
       <p class="authors">
-        Preprint (arXiv) - Submitted to IoTJ
+        Tianyu Zhang, Dongheng Zhang, <em>et&nbsp;al.</em> (IoTJ 2025)
       </p>
     </article>
 
