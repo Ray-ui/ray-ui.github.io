@@ -73,6 +73,8 @@ I am dedicated to utilizing deep learning techniques to solve localization probl
 
 
 # 🔥 News
+- <span class='label label-update'>Nov 2025</span>:
+Our paper "Lessons from Deploying Learning-based CSI Localization on a Large-Scale ISAC Platform" has been accepted to IoTJ 2025! We share interesting challenges and insights from deploying learning-based localization on a large-scale platform.
 
 - <span class='label label-update'>Apr 2025</span>:
 Preprint submitted to arXiv on 24 Apr 2025: We introduce several interesting challenges encountered when deploying learning-based localization on a large-scale platform. Stay tuned for more details!
