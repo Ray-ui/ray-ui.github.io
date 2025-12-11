@@ -112,7 +112,7 @@ Our paper "RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty" 
         </a>
       </h4>
       <p class="authors">
-        Tianyu Zhang, Dongheng Zhang, <em>et&nbsp;al.</em> (UBICOMP 2023)
+        Tianyu Zhang, Dongheng Zhang, <em>et&nbsp;al.</em> (UBICOMP 2024, <strong>CCF-A</strong>)
       </p>
     </article>
 
@@ -141,7 +141,7 @@ Our paper "RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty" 
       <h4><a href="https://ieeexplore.ieee.org/document/11250670">
         Lessons from Deploying Learning-based CSI Localization on a Large-Scale ISAC Platform</a></h4>
       <p class="authors">
-        Tianyu Zhang, Dongheng Zhang, <em>et&nbsp;al.</em> (IoTJ 2025)
+        Tianyu Zhang, Dongheng Zhang, <em>et&nbsp;al.</em> (IoTJ 2025, <strong>JCR Q1</strong>)
       </p>
     </article>
 
