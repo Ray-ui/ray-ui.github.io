@@ -27,6 +27,8 @@ My research interests include spatial intelligence and indoor localization.
 I am advised by [Dr. Dongheng Zhang](https://scholar.google.com/citations?user=xBpvMRQAAAAJ&hl=zh-CN&oi=ao) and [Prof. Yan Chen](https://scholar.google.com/citations?user=MVOCn1AAAAAJ&hl=zh-CN) at the University of Science and Technology of China.
 I am currently a research intern at JD, where I work on video understanding and temporal grounding.
 
+I believe modern AI is about compressing large-scale data about the world into model parameters.
+
 <section class="news-section" aria-labelledby="news">
   <h2 id="news">News</h2>
   <div class="news-list">
