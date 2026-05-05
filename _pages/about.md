@@ -21,7 +21,11 @@ redirect_from:
 
 # About me
 
-I am dedicated to utilizing deep learning techniques to solve localization problems.
+I am expected to enter the job market in 2027.
+
+My research interests include spatial intelligence and indoor localization. 
+I am advised by [Prof. Dongheng Zhang](https://scholar.google.com/citations?user=xBpvMRQAAAAJ&hl=zh-CN&oi=ao) and [Prof. Yan Chen](https://scholar.google.com/citations?user=MVOCn1AAAAAJ&hl=zh-CN) at the University of Science and Technology of China.
+I am currently a research intern at JD, where I work on video understanding and temporal grounding.
 
 <section class="news-section" aria-labelledby="news">
   <h2 id="news">News</h2>
