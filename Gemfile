@@ -23,5 +23,5 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
-  gem 'hawkins'
+  # LiveReload: `bundle exec jekyll serve --livereload` (hawkins liveserve breaks on Ruby 3.4 + Jekyll 3.10)
 end

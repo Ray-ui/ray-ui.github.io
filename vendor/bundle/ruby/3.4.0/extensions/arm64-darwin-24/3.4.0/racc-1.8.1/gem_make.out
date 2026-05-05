@@ -1,0 +1,20 @@
+current directory: /Users/rayz/research_topic/ray-page/ray-ui.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/rayz/research_topic/ray-page/ray-ui.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260413-54007-lci3eq sitelibdir\=./.gem.20260413-54007-lci3eq clean
+
+current directory: /Users/rayz/research_topic/ray-page/ray-ui.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260413-54007-lci3eq sitelibdir\=./.gem.20260413-54007-lci3eq
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: search path '/opt/homebrew/Cellar/openssl@3/3.4.1/lib' not found
+ld: warning: search path '/opt/homebrew/Cellar/openssl@3/3.4.1/lib' not found
+
+current directory: /Users/rayz/research_topic/ray-page/ray-ui.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260413-54007-lci3eq sitelibdir\=./.gem.20260413-54007-lci3eq install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260413-54007-lci3eq/racc
+
+current directory: /Users/rayz/research_topic/ray-page/ray-ui.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260413-54007-lci3eq sitelibdir\=./.gem.20260413-54007-lci3eq clean

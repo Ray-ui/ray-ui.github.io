@@ -129,6 +129,14 @@ defaults:
       layout: default
       author_profile: true
 
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: blog-post
+      author_profile: true
+      extra_css:
+        - /assets/css/blog-article.css
 
 # Sass/SCSS
 sass:

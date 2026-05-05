@@ -8,11 +8,12 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 15px;
+  font-size: 16px;
+  scroll-behavior: smooth;
 
-  // @include breakpoint($medium) {
-  //   font-size: 18px;
-  // }
+  @include breakpoint($medium) {
+    font-size: 17px;
+  }
 
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -26,12 +27,12 @@ body { margin: 0; }
 
 ::-moz-selection {
   color: #fff;
-  background: #000;
+  background: $info-color;
 }
 
 ::selection {
   color: #fff;
-  background: #000;
+  background: $info-color;
 }
 
 /* Display HTML5 elements in IE6-9 and FF3 */
@@ -68,6 +69,7 @@ audio:not([controls]) {
 
 a {
   color: $link-color;
+  transition: color 0.2s ease;
 }
 
 /* Apply focus state */

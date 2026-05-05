@@ -1,16 +1,26 @@
-<div class="masthead">
+<header class="masthead site-header">
   <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
-        <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
-        </ul>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
+    <nav id="site-nav" class="site-nav greedy-nav" aria-label="Primary navigation">
+      <button type="button" class="hidden greedy-nav__toggle" tabindex="-1" aria-hidden="true"><div class="navicon"></div></button>
+      <ul class="visible-links">
+        <li class="masthead__menu-item">
+          <a href="{{ '/' | relative_url }}"
+            {% if page.url == '/' or page.url == '/index.html' %}
+              class="masthead__link--active active"
+            {% endif %}>Homepage</a>
+        </li>
+        {% for link in site.data.navigation.main %}
+          <li class="masthead__menu-item">
+            <a href="{{ link.url | relative_url }}"
+              {% if link.url == '/blog/' %}
+                {% if page.url == '/blog/' or page.layout == 'blog-post' %} class="masthead__link--active active"{% endif %}
+              {% elsif page.url == link.url %}
+                class="masthead__link--active active"
+              {% endif %}>{{ link.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+      <ul class="hidden-links hidden"></ul>
+    </nav>
   </div>
-</div>
+</header>

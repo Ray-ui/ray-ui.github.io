@@ -14,6 +14,9 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
+  background-color: $background-color;
+  /* Ultra-subtle neutral depth only (no tinted halos) */
+  background-image: radial-gradient(ellipse 120% 80% at 50% -20%, rgba(0, 0, 0, 0.018), transparent 55%);
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */

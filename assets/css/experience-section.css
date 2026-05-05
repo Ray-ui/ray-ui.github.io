@@ -1,0 +1,161 @@
+/* Experience / CV — single timeline, newest first */
+
+.cv-exp {
+  width: 100%;
+  margin: 0.35rem 0 1.75rem;
+}
+
+.cv-exp__timeline {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+}
+
+.cv-exp__entry {
+  margin: 0;
+  padding: 1.1rem 1.2rem;
+  border-radius: var(--radius-card, 12px);
+  background: var(--glass-bg-strong, rgba(255, 255, 255, 0.82));
+  border: 1px solid var(--glass-border, rgba(255, 255, 255, 0.65));
+  box-shadow: var(--shadow-card, 0 1px 0 rgba(255, 255, 255, 0.55) inset,
+    0 2px 8px rgba(0, 0, 0, 0.04),
+    0 12px 40px rgba(0, 0, 0, 0.06));
+  -webkit-backdrop-filter: saturate(180%) blur(var(--glass-blur-inner, 16px));
+          backdrop-filter: saturate(180%) blur(var(--glass-blur-inner, 16px));
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.cv-exp__entry:hover {
+  box-shadow: var(--shadow-soft, 0 1px 0 rgba(255, 255, 255, 0.5) inset,
+    0 0 0 1px rgba(0, 0, 0, 0.06),
+    0 2px 10px rgba(0, 0, 0, 0.04),
+    0 16px 48px rgba(0, 0, 0, 0.07));
+  transform: translateY(-1px);
+}
+
+.cv-exp__entry--with-logo {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.cv-exp__content {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.cv-exp__logo-card {
+  flex: 0 0 auto;
+  display: grid;
+  place-items: center;
+  width: 4.25rem;
+  height: 4.25rem;
+  margin-top: 0.15rem;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.72);
+  border: 1px solid rgba(210, 210, 215, 0.72);
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.8) inset,
+    0 8px 24px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+}
+
+.cv-exp__logo {
+  display: block;
+  max-width: 76%;
+  max-height: 76%;
+  object-fit: contain;
+}
+
+.cv-exp__logo--jd {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.cv-exp__logo--seal {
+  border-radius: 50%;
+}
+
+.cv-exp__period {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem;
+  margin: 0 0 0.45rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+.cv-exp__period-date {
+  display: inline-block;
+  padding: 0.25em 0.55em;
+  color: var(--color-accent, #0071e3);
+  background-color: var(--color-accent-subtle, rgba(0, 113, 227, 0.08));
+  border-radius: 4px;
+}
+
+.cv-exp__period-tag {
+  display: inline-block;
+  padding: 0.25em 0.55em;
+  color: #5c5c5c;
+  background-color: rgba(0, 0, 0, 0.05);
+  border-radius: 4px;
+  letter-spacing: 0.06em;
+}
+
+.cv-exp__period-tag--work {
+  color: #b04a00;
+  background-color: rgba(255, 122, 0, 0.12);
+}
+
+.cv-exp__title {
+  margin: 0 0 0.2rem;
+  font-size: 1.0625rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #1a1a1a;
+}
+
+.cv-exp__school {
+  margin: 0 0 0.5rem;
+  font-size: 0.9375rem;
+  line-height: 1.45;
+  color: #5c5c5c;
+}
+
+.cv-exp__entry ul {
+  margin: 0.15rem 0 0;
+  padding-left: 1.15rem;
+  font-size: 0.9rem;
+  line-height: 1.55;
+  color: var(--text-muted, #4a4a4a);
+}
+
+.cv-exp__entry li {
+  margin: 0.28rem 0;
+}
+
+@media (max-width: 768px) {
+  .cv-exp__title {
+    font-size: 1rem;
+  }
+
+  .cv-exp__entry {
+    padding: 1rem 1.05rem;
+  }
+
+  .cv-exp__entry--with-logo {
+    gap: 0.85rem;
+  }
+
+  .cv-exp__logo-card {
+    width: 3.5rem;
+    height: 3.5rem;
+    border-radius: 15px;
+  }
+}

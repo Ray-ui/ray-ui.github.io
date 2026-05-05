@@ -1,87 +1,237 @@
-/* publication-cards.css */
-.pub-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-    gap: 1.5rem;
-    margin-bottom: 2rem;
+/* Publications — academic / bibliography-style list (tokens from main.css :root) */
+
+.pub-scholarly {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+  width: 100%;
+  margin: 0.5rem 0 2.5rem;
+}
+
+.pub-scholarly__section {
+  margin: 0;
+  background: rgba(255, 255, 255, 0.55);
+  -webkit-backdrop-filter: saturate(190%) blur(var(--glass-blur-inner, 16px));
+  backdrop-filter: saturate(190%) blur(var(--glass-blur-inner, 16px));
+  border: 1px solid var(--glass-border, rgba(255, 255, 255, 0.65));
+  border-radius: var(--radius-card, 12px);
+  padding: 1.35rem 1.35rem 1.5rem;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.45) inset,
+              0 0 0 1px var(--glass-border-outer, rgba(0, 0, 0, 0.06)),
+              var(--shadow-card, 0 2px 8px rgba(0, 0, 0, 0.04), 0 12px 40px rgba(0, 0, 0, 0.06));
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+.pub-scholarly__header {
+  border-left: 3px solid var(--color-accent, #0071e3);
+  padding: 0.15rem 0 0.15rem 1rem;
+  margin: 0 0 1.15rem;
+}
+
+.pub-scholarly__heading {
+  font-family: var(--font-serif, Georgia, "Times New Roman", serif);
+  font-size: 1.08rem;
+  font-weight: 600;
+  font-variant: small-caps;
+  letter-spacing: 0.06em;
+  color: #111;
+  margin: 0 0 0.4rem;
+  padding: 0;
+  border: none;
+  line-height: 1.35;
+}
+
+.pub-scholarly__note {
+  font-size: 0.9rem;
+  line-height: 1.55;
+  color: var(--text-muted, #6e6e73);
+  font-style: italic;
+  margin: 0;
+}
+
+.pub-scholarly__list {
+  margin: 0;
+  padding: 0;
+}
+
+.pub-scholarly__list .pub-item:first-child {
+  margin-top: 0;
+}
+
+.pub-scholarly__section--muted {
+  background: rgba(255, 255, 255, 0.4);
+  -webkit-backdrop-filter: saturate(160%) blur(12px);
+  backdrop-filter: saturate(160%) blur(12px);
+  border-color: rgba(255, 255, 255, 0.42);
+}
+
+.pub-scholarly__section--muted .pub-scholarly__heading {
+  color: #444;
+}
+
+.pub-scholarly__section--muted .pub-scholarly__header {
+  border-left-color: #6b7a8f;
+}
+
+.pub-item--ongoing .pub-item__title {
+  color: #333;
+}
+
+.pub-item__summary {
+  font-size: 0.9rem;
+  line-height: 1.55;
+  color: #444;
+  margin: 0.4rem 0 0;
+}
+
+.pub-item {
+  margin: 0 0 1.35rem;
+  padding-left: 0;
+}
+
+.pub-item:last-of-type {
+  margin-bottom: 0;
+}
+
+.pub-item__title-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem 0.75rem;
+  margin: 0 0 0.35rem;
+}
+
+.pub-item > .pub-item__title {
+  font-family: var(--font-serif, Georgia, "Times New Roman", serif);
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.45;
+  margin: 0 0 0.35rem;
+}
+
+.pub-item__title-row .pub-item__title {
+  margin: 0;
+  flex: 1 1 14rem;
+}
+
+.pub-item__slides {
+  font-family: var(--font-serif, Georgia, "Times New Roman", serif);
+  font-size: 0.82rem;
+  font-weight: 600;
+  padding: 0.15em 0.55em;
+  border-radius: 0.22em;
+  background: #f3f3f3;
+  border: 1px solid #e0e0e0;
+  color: var(--color-accent, #0071e3);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.pub-item__slides:hover {
+  background: #eaeaea;
+  border-color: #ccc;
+  color: var(--color-accent-hover, #006edb);
+}
+
+.pub-item__title a {
+  color: var(--color-accent, #0071e3);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(var(--rgb-accent, 0, 113, 227), 0.25);
+}
+
+.pub-item__title a:hover {
+  color: var(--color-accent-hover, #006edb);
+  border-bottom-color: rgba(var(--rgb-accent, 0, 113, 227), 0.45);
+}
+
+.pub-item__authors {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: #333;
+  margin: 0 0 0.25rem;
+}
+
+.pub-item__venue {
+  font-size: 0.88rem;
+  line-height: 1.5;
+  color: #444;
+  margin: 0 0 0.4rem;
+}
+
+.pub-item__venue em {
+  font-style: italic;
+  color: #333;
+}
+
+.pub-item__badge + .pub-item__badge {
+  margin-left: 0.25rem;
+}
+
+.pub-item__badge {
+  display: inline-block;
+  margin-left: 0.35rem;
+  font-size: 0.72rem;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #555;
+  border: 1px solid #ccc;
+  padding: 0.1em 0.45em;
+  border-radius: 2px;
+  vertical-align: 0.08em;
+}
+
+/* Longer venue labels (e.g. city) — keep sentence case (beat .pub-item__badge uppercase) */
+.pub-item__venue .pub-item__badge--sentence {
+  text-transform: none;
+  letter-spacing: 0.02em;
+}
+
+.pub-item__links {
+  font-size: 0.82rem;
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+
+.pub-item__links a {
+  color: #4a4a4a;
+  text-decoration: none;
+  border-bottom: 1px solid #bbb;
+}
+
+.pub-item__links a:hover {
+  color: var(--color-accent, #0071e3);
+  border-bottom-color: var(--color-accent, #0071e3);
+}
+
+.pub-item__sep {
+  margin: 0 0.35rem;
+  color: #aaa;
+}
+
+.pub-scholarly__forthcoming {
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #666;
+  margin: 0.75rem 0 0;
+  line-height: 1.5;
+}
+
+@media (max-width: 768px) {
+  .pub-scholarly {
+    gap: 1.75rem;
   }
-  
-  .pub-card {
-    background: #f9f9f9;
-    border-radius: 8px;
-    padding: 1.25rem;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  .pub-scholarly__section {
+    padding: 1.1rem 1rem 1.25rem;
   }
-  
-  .pub-card:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+  .pub-scholarly__heading {
+    font-size: 0.98rem;
   }
-  
-  .pub-card header {
-    margin-bottom: 1rem;
-    border-bottom: 1px solid #e0e0e0;
-    padding-bottom: 0.75rem;
-  }
-  
-  .pub-card h3 {
-    font-size: 1.1rem;
-    margin: 0 0 0.5rem 0;
-    color: #333;
-  }
-  
-  .pub-card .subtitle {
-    font-size: 0.9rem;
-    color: #555;
-    margin: 0;
-    line-height: 1.4;
-  }
-  
-  .paper {
-    margin-bottom: 1.25rem;
-    position: relative;
-  }
-  
-  .paper h4 {
+
+  .pub-item__title {
     font-size: 1rem;
-    margin: 0.5rem 0;
-    line-height: 1.4;
   }
-  
-  .paper h4 a {
-    color: #0066cc;
-    text-decoration: none;
-    transition: color 0.2s;
-  }
-  
-  .paper h4 a:hover {
-    color: #004080;
-    text-decoration: underline;
-  }
-  
-  .paper .authors {
-    font-size: 0.85rem;
-    color: #666;
-    margin: 0.25rem 0;
-  }
-  
-  .coming {
-    font-style: italic;
-    color: #888;
-    font-size: 0.9rem;
-    text-align: center;
-    margin: 1rem 0 0.5rem;
-  }
-  
-  /* 响应式调整 */
-  @media (max-width: 768px) {
-    .pub-grid {
-      grid-template-columns: 1fr;
-    }
-    
-    .pub-card {
-      padding: 1rem;
-    }
-  }
-  
+}

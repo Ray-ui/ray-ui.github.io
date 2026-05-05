@@ -10,10 +10,12 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
-<!-- For all browsers -->
-<link rel="stylesheet" href="assets/css/main.css">
+<!-- For all browsers — root-relative so subpages (e.g. /experience/) still load CSS -->
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+{% if page.extra_css %}
+{% for sheet in page.extra_css %}
+<link rel="stylesheet" href="{{ sheet | relative_url }}">
+{% endfor %}
+{% endif %}
 
 <meta http-equiv="cleartype" content="on">
-<head>
-  <base target="_blank">
-</head>
