@@ -8,6 +8,6 @@ extra_css:
   - /assets/css/publication-cards.css
 ---
 
-# Publications
+# Publications <span class="pub-title-aside">(Selected first-author publications.)</span>
 
 {% include publications-list.html %}

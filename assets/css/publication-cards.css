@@ -1,5 +1,13 @@
 /* Publications — academic / bibliography-style list (tokens from main.css :root) */
 
+.page__content > h1 .pub-title-aside {
+  font-weight: 600;
+  font-size: 0.52em;
+  letter-spacing: 0.03em;
+  color: #64748b;
+  white-space: normal;
+}
+
 .pub-scholarly {
   display: flex;
   flex-direction: column;
@@ -188,6 +196,13 @@
   letter-spacing: 0.02em;
 }
 
+/* CCF-A, JCR Q1, highlighted oral — light rose tint */
+.pub-item__badge.pub-item__badge--rose {
+  color: #9f1239;
+  background: rgba(255, 241, 242, 0.95);
+  border-color: rgba(251, 113, 133, 0.42);
+}
+
 .pub-item__links {
   font-size: 0.82rem;
   margin: 0;
@@ -216,6 +231,10 @@
   color: #666;
   margin: 0.75rem 0 0;
   line-height: 1.5;
+}
+
+.pub-item__venue--forthcoming .pub-scholarly__forthcoming {
+  margin-top: 0;
 }
 
 @media (max-width: 768px) {

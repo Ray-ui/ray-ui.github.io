@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianyu Zhang"
-description              : "Just fucking do it."
+description              : "Personal homepage — indoor localization and spatial intelligence (USTC)."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,6 +24,7 @@ author:
   name             : "Tianyu Zhang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "University of Science and Technology of China"
+  tagline          : "Just f**king do it."
   location         : "Hefei, China"
   employer         :
   pubmed           : 

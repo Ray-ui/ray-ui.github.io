@@ -34,7 +34,7 @@ I believe modern AI is about compressing large-scale data about the world into m
   <div class="news-list">
     <div class="news-item">
       <time class="news-date">May 2026</time>
-      <p>Our paper “Towards CSI Localization at Scale: Unsupervised Representation Learning for Fingerprint Retrieval” was accepted to <em>IEEE Transactions on Mobile Computing</em>.</p>
+      <p>Our paper “ULoc” has been accepted by IEEE TMC 2026.</p>
     </div>
     <div class="news-item">
       <time class="news-date">Jan 2026</time>
